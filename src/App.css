@@ -1,0 +1,20 @@
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+li {
+  list-style: none;
+  margin: 10px;
+}
+.App {
+  margin: 15px;
+}
+
+.team-stats >div {
+margin: 15px 0;
+}
+
+.fighter-item >div {
+  margin: 15px 0;
+}
